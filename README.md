@@ -35,8 +35,7 @@ This is a **web-based** version of the classic **Connect-4** game built using **
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/keerthi-raj-s-74a8a824b/)
-- [GitHub](https://github.com/keerthirajsivashankar)
-
+  
 ---
 
 Feel free to contribute or open issues if you have suggestions. 🎮
